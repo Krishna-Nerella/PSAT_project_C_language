@@ -1,6 +1,6 @@
 # Tic Tac Toe - C Implementation
 
-![Tic Tac Toe](tic_tac_toe.png)
+![Tic Tac Toe](https://img.freepik.com/free-vector/hands-holding-pencils-play-tic-tac-toe-people-drawing-crosses-noughts-simple-game-children-flat-vector-illustration-strategy-concept-banner-website-design-landing-web-page_74855-24786.jpg?w=2000)
 
 This repository contains a simple implementation of the classic Tic Tac Toe game in the C programming language. The project consists of two separate C programs: one for user vs. user gameplay and the other for user vs. computer gameplay.
 
