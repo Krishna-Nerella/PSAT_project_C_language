@@ -15,3 +15,19 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 
    ```bash
    gcc tic_tac_toe_user_vs_user.c -o tic_tac_toe_user_vs_user
+1. Run the compiled executable:
+
+For Linux/Mac:
+   ```bash
+   ./tic_tac_toe_user_vs_user
+For Windows:
+   ```bash
+   tic_tac_toe_user_vs_user.exe
+2.Follow the on-screen instructions to play the Tic Tac Toe game with another user.
+
+## User vs. Computer Gameplay
+### How to Run
+1. Make sure you have a C compiler (such as GCC) installed on your system.
+2. Clone this repository to your local machine or download the ZIP file and extract it.
+3. Navigate to the user_vs_computer directory.
+4. Compile the C code by running the following command in your terminal or command prompt:
