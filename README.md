@@ -20,6 +20,7 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 For Linux/Mac:
    ```bash
    ./tic_tac_toe_user_vs_user
+
 For Windows:
    ```bash
    tic_tac_toe_user_vs_user.exe
