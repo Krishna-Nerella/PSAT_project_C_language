@@ -23,6 +23,7 @@ For Linux/Mac:
 For Windows:
    ```bash
    tic_tac_toe_user_vs_user.exe
+
 2.Follow the on-screen instructions to play the Tic Tac Toe game with another user.
 
 ## User vs. Computer Gameplay
