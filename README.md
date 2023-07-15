@@ -67,6 +67,7 @@ Example Board:
   4 | 5 | 6
   ---------
   7 | 8 | 9
+  
 How to Play
 1. Players take turns to choose an empty cell to place their symbol.
 2. Enter the number corresponding to the cell where you want to place your symbol.
