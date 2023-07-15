@@ -20,12 +20,12 @@ Run the compiled executable:
 For Linux/Mac:
 
 bash
-Copy code
+
 ./tic_tac_toe_user_vs_user
 For Windows:
 
 bash
-Copy code
+
 tic_tac_toe_user_vs_user.exe
 Follow the on-screen instructions to play the Tic Tac Toe game with another user.
 
@@ -61,18 +61,17 @@ Tic Tac Toe is played on a 3x3 grid. Two players take turns to place their symbo
 
 Example Board:
 
-lua
-Copy code
+
   1 | 2 | 3
   ---------
   4 | 5 | 6
   ---------
   7 | 8 | 9
 How to Play
-Players take turns to choose an empty cell to place their symbol.
-Enter the number corresponding to the cell where you want to place your symbol.
-The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
-If all cells are filled, and no player has three symbols in a row, the game ends in a draw.
+1. Players take turns to choose an empty cell to place their symbol.
+2. Enter the number corresponding to the cell where you want to place your symbol.
+3. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+4. If all cells are filled, and no player has three symbols in a row, the game ends in a draw.
 Enjoy playing Tic Tac Toe with your friends or challenging the computer's AI!
 
 Feel free to contribute to this project by opening issues or submitting pull requests.
